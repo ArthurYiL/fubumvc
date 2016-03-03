@@ -172,7 +172,7 @@ NUGET
       Newtonsoft.Json (>= 5.0.6)
   remote: http://build.fubu-project.org/guestAuth/app/nuget/v1/FeedService.svc
   specs:
-    HtmlTags (3.0.0.187)
+    HtmlTags (2.1.0.185)
     LightningQueues (0.2.0-dnx-27)
       Rx-Main (>= 2.2.5) - framework: >= net46, dnx451, dnxcore50
       System.Collections (>= 4.0.11-beta-23326) - framework: dnxcore50

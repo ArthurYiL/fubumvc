@@ -30,7 +30,7 @@ source https://www.myget.org/F/fubumvc-edge
 nuget BottleServiceRunner
 nuget DotNetZip
 nuget FubuCore 2.0.0.311
-nuget HtmlTags 3.0.0.187
+nuget HtmlTags 2.1.0.185
 nuget ManagedEsent
 nuget Microsoft.AspNet.WebApi.Client
 nuget Microsoft.AspNet.WebApi.Core
